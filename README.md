@@ -98,7 +98,9 @@ Some ideas for future versions:
 
 ## Screenshot
 
-Add screenshots of the dashboard here after deployment.
+## Dashboard Preview
+
+![Dashboard](Screenshots/your_image_name.png)
 
 ---
 
